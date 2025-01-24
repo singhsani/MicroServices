@@ -1,0 +1,3 @@
+com\example\currency_exchange_service\Entity\ExchangeValue.class
+com\example\currency_exchange_service\CurrencyExchangeServiceApplication.class
+com\example\currency_exchange_service\Controller\CurrencyExchangeController.class
